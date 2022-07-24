@@ -1,4 +1,4 @@
-# Loading animation Progress Bar || Barra de carregamento com animação 
+# Loading animation || Barra de carregamento com animação 
 
 Uma simples barra de carregamento que serve para tela de carrecamento ou quando estamos carregando ou movendo arquivos
 
